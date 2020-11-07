@@ -19,4 +19,4 @@
 
   ## **Questions**
   * Visit me at [gitHub](http://www.github.com/osadenaike)
-  * For additional questions, please reach me at: [pochobs@gmail.com](mailto:osadenaike@gmail.com)
+  * For additional questions, please reach me at: [osadenaike@gmail.com](mailto:osadenaike@gmail.com)
